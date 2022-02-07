@@ -1,3 +1,7 @@
+My personal build of Marlin for my Ender 3 Max. My changes from ChadDevOps' config are signed "MORGANITE". Original README is below.
+
+_/|/|_
+
 # Marlin-Ender-3-Max w/ BL-Touch
 Updated to 2021-11-25 (2.0.9.2 plus bugfixes to date)  - [MarlinFirmware/Marlin@981ad44ded7b3805ce54da389581403c230f7dbd](https://github.com/MarlinFirmware/Marlin/commit/981ad44ded7b3805ce54da389581403c230f7dbd)
 
